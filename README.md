@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Heart-Disease-Prediction.git
+   git clone https://github.com/jainam2001/Heart-Disease-Prediction.git
    cd Heart-Disease-Prediction
    ```
 
